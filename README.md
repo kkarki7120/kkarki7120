@@ -46,8 +46,8 @@ Here are some of my latest blog posts from [kushal-karki.com.np/blog](https://ku
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushalkarki01&show_icons=true&theme=github_dark&hide_title=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushalkarki01&layout=compact&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kkarki7120&theme=transparent&hide_title=true&show_icons=true&count_private=true&include_all_commits=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkarki7120&layout=compact&theme=transparent&hide_title=true" height="160" />
 </p>
 
 ---
