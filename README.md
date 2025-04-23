@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kushal Karki</h1>
-<h3 align="center">DevOps Engineer | Python Developer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
 <p align="center">
   <a href="https://kushal-karki.com.np" target="_blank"><strong>🌐 Portfolio</strong></a> •
