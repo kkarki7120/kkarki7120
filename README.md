@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Kushal Karki</h1>
-<h3 align="center">DevOps Engineer | Cloud & Automation Enthusiast</h3>
+<h3 align="center">MLOps Engineer/SRE</h3>
 
 <p align="center">
   <a href="https://kushal-karki.com.np" target="_blank"><strong>🌐 Portfolio</strong></a> •
@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-- 🚀 Currently working as a **DevOps Engineer**
+- 🚀 Currently working as a **MLOps Engineer**
 - 🛠️ I specialize in **Python**, **Docker**, **Kubernetes**, **CI/CD**, **AWS**, **Linux**, **Terraform** and **Monitoring**
 - 🧠 Passionate about automating systems and improving developer workflows
 - 💡 Exploring cloud security, infrastructure as code, and scalable microservices
